@@ -5,4 +5,9 @@
     font-family: "circular-web";
     src: url("/fonts/circular-web-book.woff2") format("woff2");
   }
+
+  @font-face {
+    font-family: "general";
+    src: url("/fonts/general.woff2") format("woff2");
+  }
 }
