@@ -1,5 +1,8 @@
 @import "tailwindcss";
 
 @layer base {
-  @font-face;
+  @font-face {
+    font-family: "circular-web";
+    src: url("/fonts/circular-web-book.woff2") format("woff2");
+  }
 }
