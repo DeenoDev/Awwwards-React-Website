@@ -10,4 +10,9 @@
     font-family: "general";
     src: url("/fonts/general.woff2") format("woff2");
   }
+
+  @font-face {
+    font-family: "robert-medium";
+    src: url("/fonts/robert-medium.woff2") format("woff2");
+  }
 }
