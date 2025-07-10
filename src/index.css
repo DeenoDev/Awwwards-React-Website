@@ -46,3 +46,7 @@
   --color-yellow-100: #8e983f;
   --color-yellow-300: #edff66;
 }
+
+body {
+  font-family: "--font-general", sans-serif;
+}
